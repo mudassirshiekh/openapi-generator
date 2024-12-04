@@ -94,6 +94,7 @@ OpenAPI Generator allows generation of API client libraries (SDK generation), se
 | **Others**                       | **GraphQL**, **JMeter**, **Ktorm**, **MySQL Schema**, **Postman Collection**, **Protocol Buffer**, **WSDL**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## Table of contents
+## By Mudassir Alam
 
   - [OpenAPI Generator](#openapi-generator)
   - [Overview](#overview)
